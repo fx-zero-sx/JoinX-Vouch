@@ -1,0 +1,6 @@
+{
+  "embedColor": "#F5C542",
+  "cooldownMs": 600000,
+  "reviewsPerPage": 10,
+  "reviewIdPadding": 5
+}
